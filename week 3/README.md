@@ -93,12 +93,10 @@ And no matter how long you're upgrading the center, all continue to compute exac
 
 <img src="https://old.alexander-wong.com/img/deeplearning-ai/reason_for_initialized_weights_to_rand.png" width="650">
 
----
-2- What’s new for you ?
--
+
 
 ---
-4- Resources ? 
+#  Resources ? 
 -
 - [https://old.alexander-wong.com/post/neural-networks-and-deep-learning-week3/#neural-network-representation](https://old.alexander-wong.com/post/neural-networks-and-deep-learning-week3/#neural-network-representation)
 
