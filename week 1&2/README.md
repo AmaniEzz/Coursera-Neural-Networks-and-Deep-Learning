@@ -124,11 +124,9 @@
 - Always use numpy functions.
 
 
-2- What’s new for you ?
--
+---
 
-
-3- Resources ? 
+# Resources ? 
 -
 - [logistic_regression_derivative](http://ronny.rest/blog/post_2017_08_12_logistic_regression_derivative/)
 - [Backprop](https://colah.github.io/posts/2015-08-Backprop/)
