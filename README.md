@@ -17,4 +17,4 @@ This course also teaches you how Deep Learning actually works, rather than prese
 > This is the first course of the Deep Learning Specialization.
 
 
-<img src="cert.png>
+<img src="cert.png">
